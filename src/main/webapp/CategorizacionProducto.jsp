@@ -1,7 +1,23 @@
 <%-- 
-    Document   : CategorizacionProducto
-    Created on : 5 jun. 2022, 13:02:49
-    Author     : alex
+Fecha: semana 15
+Integrantes:
+Jherson Leon
+Universidad Tecnológica del Perú
+U20212455@utp.edu
+.pe
+	
+Keny Salazar
+Universidad Tecnológica del Perú
+U20203194@utp.edu.pe
+
+Kevin Perez 
+Universidad Tecnológica del Perú 
+U20203194@utp.edu.pe
+	
+Marcelo Condori
+Universidad Tecnológica del Perú
+U20249746@utp.edu.pe
+
 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
